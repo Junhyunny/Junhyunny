@@ -6,7 +6,7 @@
 ### 😀 강준현(Junhyun Kang) - @Junhyunny
 안녕하세요, 서버 사이드 개발자 강준현입니다.
 
-### 😎 현재 진행하는 공부
+### 😎 진행 중인 공부
 - Java
 - Spring Boot
 - Spring Cloud
