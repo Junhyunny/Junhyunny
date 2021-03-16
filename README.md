@@ -23,6 +23,6 @@
 [![Github Badge](http://img.shields.io/badge/-Github-black?style=flat-square&logo=github&link=https://github.com/dydtjr1128/)](https://github.com/Junhyunny/) 
 [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://dydtjr1128.github.io/)](https://junhyunny.github.io/)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/%EC%A4%80%ED%98%84-%EA%B0%95-32b972201/)](https://www.linkedin.com/in/%EC%A4%80%ED%98%84-%EA%B0%95-32b972201/) 
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kang3966@naver.com)](mailto:kang3966@naver.com)
+[![Mail Badge](https://img.shields.io/badge/-Mail-d14836?style=flat-square&logo=Mail&logoColor=white&link=mailto:kang3966@naver.com)](mailto:kang3966@naver.com)
 
 </div>
