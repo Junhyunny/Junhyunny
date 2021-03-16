@@ -1,48 +1,28 @@
 
-# Junhunny's Github
-<!--
-**dydtjr1128/dydtjr1128** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Junhyunny's github stats](https://github-readme-stats.vercel.app/api?username=Junhyunny)](https://github.com/Junhyunny)
 
-Here are some ideas to get you started:
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Junhyunny&hide=Jupyter%20Notebook&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 😀 강준현(Junhyun Kang) - @Junhyunny
+안녕하세요, 서버 사이드 개발자 강준현입니다.
 
-[![dydtjr1128's github stats](https://github-readme-stats.vercel.app/api?username=dydtjr1128)](https://github.com/dydtjr1128)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dydtjr1128&hide=Jupyter%20Notebook&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-### Choi Yong Seok - @dydtjr1128
-
-😀 Hello! Welcome to my Github profile!
-
-### 🌱 I’m currently learning
-
-- Modern C++ (Currently, C++ 14, 17, 20)
-- Java(Java 8)
-- Spring framework
-- Python
-- React
+### 😎 현재 진행하는 공부
+- Java
+- Spring Boot
+- Spring Cloud
+- Kafka
 - Docker
 - Kubernates
 
-### 😍 I’m currently interested in
-
-- Flutter
-- Rust
+### 😍 관심있는 분야
+- Hadoop
+- Spring Webflux
 
 <div align=center>
     
-[![Github Badge](http://img.shields.io/badge/-Github-black?style=flat-square&logo=github&link=https://github.com/dydtjr1128/)](https://github.com/dydtjr1128/) 
-[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://dydtjr1128.github.io/)](https://dydtjr1128.github.io/)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yongseok-choi/)](https://www.linkedin.com/in/yongseok-choi/) 
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dydtjr1994@gmail.com)](mailto:dydtjr1994@gmail.com)
+[![Github Badge](http://img.shields.io/badge/-Github-black?style=flat-square&logo=github&link=https://github.com/dydtjr1128/)](https://github.com/Junhyunny/) 
+[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://dydtjr1128.github.io/)](https://junhyunny.github.io/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/%EC%A4%80%ED%98%84-%EA%B0%95-32b972201/)](https://www.linkedin.com/in/%EC%A4%80%ED%98%84-%EA%B0%95-32b972201/) 
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kang3966@naver.com)](mailto:kang3966@naver.com)
 
 </div>
