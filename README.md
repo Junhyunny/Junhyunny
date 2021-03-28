@@ -10,14 +10,15 @@
 - Java
 - Spring Boot
 - Spring Cloud
-- Kafka
-- Docker
-- Kubernates
+- JPA
 - Vue.js
 
 ### 😍 관심있는 분야
 - Spring Webflux
-- Hadoop
+- Apache Kafka
+- Apache Hadoop
+- Docker
+- Kubernates
 
 <div align=center>
     
