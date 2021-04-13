@@ -6,7 +6,6 @@
 - Spring Boot
 - Spring Cloud
 - JPA
-- Vue.js
 
 ### 😍 관심있는 분야
 - Spring Webflux
