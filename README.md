@@ -1,18 +1,12 @@
 ### 😀 강준현(Junhyun Kang) - @Junhyunny
 안녕하세요, 서버 사이드 개발자 강준현입니다.
 
-### 😎 진행 중인 공부
+### 😎 공부 중인 분야
 - Java
 - Spring Boot
 - Spring Cloud
 - JPA
-
-### 😍 관심있는 분야
-- Spring Webflux
-- Apache Kafka
-- Apache Hadoop
-- Docker
-- Kubernates
+- Algorithm
 
 <div align=center>
     
