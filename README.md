@@ -7,6 +7,7 @@
 - Spring Cloud
 - JPA
 - Algorithm
+- Web
 
 <div align=center>
     
