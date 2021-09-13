@@ -8,7 +8,7 @@
 </a>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img src="https://https://github-readme-stats.vercel.app/api/top-langs/?username=Junhyunny&hide=Jupyter%20Notebook&layout=compact" width="35%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Junhyunny&hide=Jupyter%20Notebook&layout=compact" width="35%" />
 </a>
     
 <!-- [![Junhyunny's github stats](https://github-readme-stats.vercel.app/api?username=Junhyunny)](https://github.com/Junhyunny)
