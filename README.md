@@ -1,6 +1,8 @@
 ### 😀 강준현(Junhyun Kang) - @Junhyunny
 
-소프트웨어 엔지니어 강준현입니다. 
-생각과 경험을 정리하고, 학습한 지식을 알기 쉽게 공유하는 일을 좋아합니다.
+Hello, I am Junhyun Kang. I like to write posts about my insight and experiences on my blog to share. You can look around my experiences in these below links.
+
+- https://junhyunny.github.io/
+- https://stackoverflow.com/users/14859847/junhyunny
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/junhyun-kang-32b972201/)](https://www.linkedin.com/in/junhyun-kang-32b972201/)
