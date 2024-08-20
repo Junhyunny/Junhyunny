@@ -4,5 +4,4 @@ Hello, I am Junhyun Kang. I like to write posts about my insight and experiences
 
 - https://junhyunny.github.io/
 - https://stackoverflow.com/users/14859847/junhyunny
-
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/junhyun-kang-32b972201/)](https://www.linkedin.com/in/junhyun-kang-32b972201/)
+- https://www.linkedin.com/in/junhyun-kang-32b972201/
