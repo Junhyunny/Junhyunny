@@ -8,4 +8,4 @@ Hello, I am Junhyun Kang. I'm a senior software engineer and an author. I like t
 
 The link below is my book.
 
-- [안쪽까지 들여다보는 스프링 시큐리티](https://www.yes24.com/product/goods/180391041Hello)
+- [안쪽까지 들여다보는 스프링 시큐리티](https://www.yes24.com/product/goods/180391041)
